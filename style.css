@@ -1,3 +1,20 @@
+body{
+    padding:0;
+    margin: 0;
+}
+
+
+
+
 footer{
     height: 500px;
+}
+
+P{
+    font-family: 'Noto Serif', serif;
+}
+.div-size{
+    width: 300px;
+    background-color: rgb(232, 203, 183);
+
 }
